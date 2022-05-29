@@ -1,0 +1,21 @@
+[
+    {
+        "email": "agenor.medel@geradornv.com.br",
+        "fullName": "Agenor Garcia Medel",
+        "userName": "agenor",
+        "password": "garcia12"
+    },
+    {
+        "email": "kevin.espindola@geradornv.com.br",
+        "fullName": "Kevin Aguiar Espindola",
+        "userName": "kevin",
+        "password": "espindola"
+    },
+    {
+        "email": "yan.torres@geradornv.com.br",
+        "fullName": "Yan Calixto Torres",
+        "userName": "yan",
+        "password": "yan12345"
+    }
+
+]
